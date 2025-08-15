@@ -1,0 +1,15 @@
+# Build artifacts
+/sess
+/dist/
+/bin/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Session runtime data (ensure not committed accidentally)
+~/.sess/
