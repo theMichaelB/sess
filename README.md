@@ -90,4 +90,4 @@ See `ARCHITECTURE.md` for a deeper dive. At a glance:
 
 ## Licensing
 
-No license is currently provided. Choose and add a LICENSE file (MIT, Apache-2.0, etc.) before publishing.
+Licensed under the MIT License. See `LICENSE` for details.
