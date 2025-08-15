@@ -1,3 +1,9 @@
+Created because I got frustrated with the heaviness of tmux, and the others didn't quite do what I wanted. 
+
+Also this is the age of vibe coding. I've honestly not even read the code. It works like I want it to, that's about it. 
+
+This is the only human content in here, everything else is codex! Enjoy. 
+
 # sess — Minimal Session Persistence for the Terminal
 
 `sess` creates a shell inside a daemon-managed PTY that you can attach/detach from. It aims to be small, fast, and robust for everyday use.
